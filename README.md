@@ -46,8 +46,11 @@ Kathlen de Oliveira Romeu, uma jovem de 24 anos que estava grávida de 14 semana
 ## Operação no Complexo do Lins 
 No dia 8 de junho, uma ação da Polícia Militar na comunidade do Lins, na Zona Norte do Rio, terminou com a morte da designer de interiores Kathlen Romeu, de 24 anos, grávida de quatro meses.Segundo moradores, ela foi vítima de uma bala perdida durante o confronto entre criminosos e policiais da Unidade de Polícia Pacificadora (UPP) Lins.Em nota, a Polícia Militar informou que os agentes foram atacados a tiros por criminosos na localidade conhecida como “Beco da 14”, dando início a um confronto.Segundo a polícia, Kathlen foi encontrada ferida após a troca de tiros, foi socorrida no Hospital Municipal Salgado Filho, no Méier, mas não resistiu.As investigações da morte de Kathlen estão em andamento pela Delegacia de Homicídios da Capital (DHC). Foram ouvidos cinco dos 12 policiais militares que estavam no local do crime. Também foram apreendidas as armas dos PMs: 10 fuzis calibre 7.62, dois fuzis calibre 5.56 e nove pistolas .40.
 
+***
 
+# Visualização de dados  
+Veja algumas de nossas visualizações feitas a partir do nosso banco de dados:
 
-*** 
+<img src='./graficos/acesso_educacao.png'>
 
-# Visualização de dados
+Veja também nosso [Dashboard](https://public.tableau.com/app/profile/felipe.batista/viz/projeto4_vamoAI/projeto4_vamoAI)!
