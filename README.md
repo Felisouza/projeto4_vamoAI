@@ -53,4 +53,6 @@ Veja algumas de nossas visualizações feitas a partir do nosso banco de dados:
 
 <img src='./graficos/acesso_educacao.png'>
 
+<img src='./graficos/media_internet.png'>
+
 Veja também nosso [Dashboard](https://public.tableau.com/app/profile/felipe.batista/viz/projeto4_vamoAI/projeto4_vamoAI)!
